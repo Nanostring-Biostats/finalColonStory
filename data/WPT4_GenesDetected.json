@@ -168,7 +168,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":6604,
         "x_axis":3.618857689,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":4,
@@ -177,7 +177,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":6597,
         "x_axis":3.438959455,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":4,
@@ -186,7 +186,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":7241,
         "x_axis":3.63956849,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":4,
@@ -195,7 +195,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":6974,
         "x_axis":3.382504993,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":4,
@@ -204,7 +204,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":353,
         "x_axis":3.48,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":4,
@@ -213,7 +213,7 @@
         "type":"Enteroendocrine cells",
         "GenesDetected":5597,
         "x_axis":3.533775,
-        "channel":"DNA"
+        "channel":"Nuclei"
     },
     {
         "clust_id":5,
