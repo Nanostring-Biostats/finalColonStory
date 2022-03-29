@@ -1,0 +1,47 @@
+bar,X_position,Y_position,type,channel,order,percentage
+one,16641,12730,Vessels,,1,0.02173913
+one,19412.27344,15409.05176,Circular muscle layer,,2,0.02173913
+one,22720.85938,13868.95117,Circular muscle layer,,3,0.02173913
+one,11502.19727,18076.13477,Circular muscle layer,,4,0.02173913
+one,15774.07324,16399.0957,Circular muscle layer,,5,0.02173913
+one,12134.82617,19386.2793,Longitudinal muscle layer,,6,0.02173913
+one,25031.59961,15176.76953,Longitudinal muscle layer,,7,0.02173913
+one,18818.26953,16972.75781,Longitudinal muscle layer,,8,0.02173913
+one,22294.69727,15830.45703,Longitudinal muscle layer,,9,0.02173913
+one,22761,9619,Muscularis mucosae,,A,0.02173913
+one,29360,4435,Muscularis mucosae,,B,0.02173913
+one,16844,9709,Muscularis mucosae,,C,0.02173913
+one,17459,31539,Muscularis mucosae,,D,0.02173913
+one,26825,29348,Muscularis mucosae,,E,0.02173913
+one,25710,25938,Muscularis mucosae,,F,0.02173913
+one,30314.45898,1106.504639,Epithelium,,G,0.02173913
+one,15926.55859,30108.26563,Epithelium,,H,0.02173913
+one,22326.54297,8357.572266,Epithelium,,I,0.02173913
+one,33507.43359,35182.27344,Epithelium,,J,0.02173913
+one,27143.29297,28611.77539,Epithelium,,K,0.02173913
+one,27013.88281,31268.40039,Epithelium,,L,0.02173913
+one,12584,39010,Enteroendocrine cells,Nuclei,M,0.02173913
+one,29379,31390,Enteroendocrine cells,Nuclei,N,0.02173913
+one,33924,38851,Enteroendocrine cells,Nuclei,O,0.02173913
+one,12856,32435,Enteroendocrine cells,Nuclei,P,0.02173913
+one,12931,10896,Enteroendocrine cells,Nuclei,Q,0.02173913
+one,13728.7793,34852.78125,Submucosa connective tissues,,R,0.02173913
+one,27770.59766,8917.713867,Submucosa connective tissues,,S,0.02173913
+one,14352.32715,27216.32422,Submucosa connective tissues,,T,0.02173913
+one,15450,12796,Vessels,,U,0.02173913
+one,10997,34608,Vessels,,V,0.02173913
+one,30636,8062,Vessels,,W,0.02173913
+one,16131.39453,14057.03027,Submucosa connective tissues,,X,0.02173913
+one,15365,41449,Enteroendocrine cells,Nuclei,Y,0.02173913
+one,33507.43359,35182.27344,Lamina propria,,Z,0.02173913
+one,27143.29297,28611.77539,Lamina propria,,Za,0.02173913
+one,27013.88281,31268.40039,Lamina propria,,Zb,0.02173913
+one,30314.45898,1106.504639,Lamina propria,,Zc,0.02173913
+one,22326.54297,8357.572266,Lamina propria,,Zd,0.02173913
+one,15926.55859,30108.26563,Lamina propria,,Ze,0.02173913
+one,20262.37109,34432.62109,Colonic patch,,Zf,0.02173913
+one,8602.692383,36490.0625,Colonic patch,,Zg,0.02173913
+one,18075.50586,26125.8457,Colonic patch,,Zh,0.02173913
+one,22472.42773,29411.0332,Colonic patch,,Zi,0.02173913
+one,18919,12395,Colonic patch,,Zj,0.02173913
+one,18042.45703,30500.38867,Colonic patch,,Zk,0.02173913
