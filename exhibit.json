@@ -91,7 +91,11 @@
                         "field": "GenesDetected", 
                         "type": "quantitative",
                         "title": "Genes Detected, # > LOQ"
-                    }
+                    },
+                    "tooltip": [
+                        {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"},
+                        {"field": "type", "type": "nominal", "title": "Histological structure"}
+                    ]
                 }
             }]
         }
@@ -181,6 +185,7 @@
                         "range": ["#cc79a7", "#decac2", "#f0e442", "#009e73", "#e69f00", "#d55e00", "#484e4e", "#0072b2", "#56b4e9"]
                     }
                 },
+                "tooltip": {"field": "type", "type": "nominal"},
                 "order": {"field": "order"}
                 }
         }],
@@ -342,7 +347,11 @@
                     "y": {
                         "field": "CHGA", 
                         "type": "quantitative"
-                    }
+                    },
+                    "tooltip": [
+                        {"field": "CHGA", "type": "quantitative", "format": ".0f", "title": "CHGA Expression"},
+                        {"field": "type", "type": "nominal", "title": "Histological structure"}
+                    ]
                 }
             }
         ]}
@@ -413,7 +422,11 @@
                     "y": {
                         "field": "PIGR", 
                         "type": "quantitative"
-                    }
+                    },
+                    "tooltip": [
+                        {"field": "PIGR", "type": "quantitative", "format": ".0f", "title": "PIGR Expression"},
+                        {"field": "type", "type": "nominal", "title": "Histological structure"}
+                    ]
                 }
             }
         ]}
